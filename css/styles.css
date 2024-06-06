@@ -143,6 +143,8 @@ ul, ol {
     block-size: cover;
     padding-top: 188px;
     padding-bottom: 188px;
+    max-width: 1440px;
+    margin: 0 auto;
 }
 
 .general-title{
