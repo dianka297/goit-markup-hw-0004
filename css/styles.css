@@ -159,7 +159,7 @@ ul, ol {
 /*----------- section-one-title----------- */
 .hero{
     background-color: rgba(46, 47, 66, 0.7); 
-    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/img-name.jpg);
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/img-name.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
