@@ -453,16 +453,23 @@ ul, ol {
 /*--------------footer----------------*/
 .footer {
     background: #2e2f42;
-    padding-top: 100px;
-    padding-bottom: 100px;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
+.footer-container{
+    padding-top: 100px;
+    padding-bottom: 100px; 
+}
 .footer-items {
     display: flex;
     align-items: baseline;
+  }
+
+  .footer-logo-text {
+    max-width: 264px;
+    margin-right: 120px;
   }
 
   .footer-logo-link {
@@ -482,10 +489,10 @@ ul, ol {
     color: #ffffff;
   }
 
-.footer-logo-text {
-   color: #f4f4fd;
+  .logo-footer-text {
+    color: #f4f4fd;
   }
-
+  
   .footer-text-social{
     color: #ffffff;
     font-weight: 500;
