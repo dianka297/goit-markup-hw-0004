@@ -77,8 +77,7 @@ ul, ol {
     gap: 40px;
 }
 
-.header-menu-item {
-}
+
 
 
 .header-logo-studio{
@@ -406,9 +405,6 @@ ul, ol {
     overflow: hidden;
   }
 
-.portfolio-item-img {
-}
-
 .portfolio-cover-text {
     position: absolute;
     content: '';
@@ -503,9 +499,7 @@ ul, ol {
   gap: 16px;
   }
 
-  .footer-social-item {
-   
-}
+
 
   .footer-social-link {
     display: flex;
