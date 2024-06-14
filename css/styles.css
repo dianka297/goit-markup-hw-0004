@@ -221,7 +221,7 @@ ul, ol {
 /* -----------advantages----------- */
 
 .advantages{
-    padding-top: 120px 0; 
+    padding-top: 120px; 
     padding-bottom: 120px;
 }
 
@@ -251,7 +251,7 @@ ul, ol {
 }
 
 .advantages-item{
-    width: calc((100% - 3 * 24px) / 4);
+    width: calc((100% - 72px) / 4);
 }
 
 .box-icon-advantages{
@@ -269,7 +269,6 @@ ul, ol {
 .advantages-item-title{
     margin-bottom: 8px;
 }
-
 
 .advantages-list-item{
     font-weight: 400;
