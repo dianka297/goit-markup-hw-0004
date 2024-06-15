@@ -468,14 +468,13 @@ ul, ol {
     margin-bottom: 16px;
   }
 
-  .footer-logo-text {
-    color: #f4f4fd;
-  }
-
   .footer-text {
     color: #ffffff;
   }
 
+  .footer-logo-text {
+    color: #f4f4fd;
+  }
 
   .footer-text-social{
     color: #ffffff;
