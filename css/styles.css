@@ -101,7 +101,7 @@ ul, ol {
     color: #404BBF;
 }
 
- .nav-link .current::after{
+ .current::after{
    content: "";
    position: absolute;
   display: block;
