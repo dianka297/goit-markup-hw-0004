@@ -469,6 +469,10 @@ ul, ol {
   }
 
   .footer-text {
+    color: #ffffff;
+  }
+  
+  .footer-text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
