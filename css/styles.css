@@ -77,7 +77,7 @@ ul, ol {
     gap: 40px;
 }
 
-.header-menu-link{
+.nav-link{
     font-family: "Roboto", sans-serif;
     position: relative;
     font-weight: 500;
