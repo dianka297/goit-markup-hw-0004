@@ -472,7 +472,10 @@ ul, ol {
     color: #ffffff;
   }
 
-
+  .footer-logo-text {
+    color: #f4f4fd;
+  }
+  
   .footer-text-social{
     color: #ffffff;
     font-weight: 500;
