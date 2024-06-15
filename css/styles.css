@@ -472,9 +472,6 @@ ul, ol {
     color: #ffffff;
   }
 
-  .footer-social-icon {
-    color: #f4f4fd;
-  }
 
   .footer-text-social{
     color: #ffffff;
@@ -511,3 +508,7 @@ ul, ol {
 .footer-social-link:focus {
   background-color: #31d0aa;
 }
+
+.footer-social-icon {
+    color: #f4f4fd;
+  }
