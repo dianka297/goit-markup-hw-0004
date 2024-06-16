@@ -475,7 +475,7 @@ ul, ol {
   .footer-logo-text {
     color: #f4f4fd;
   }
-  
+
   .footer-text-social{
     color: #ffffff;
     font-weight: 500;
@@ -518,5 +518,5 @@ ul, ol {
 }
 
 .footer-social-icon {
-    color: #f4f4fd;
+    fill: #f4f4fd;
   }
